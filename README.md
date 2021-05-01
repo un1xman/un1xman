@@ -10,11 +10,6 @@
     - Telegram: @un1xman
     - Twitter: @un1xmannn
 ##### Un1xman's Stats
-#
-#
-#
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=un1xman&show_icons=true&theme=cobalt)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=un1xman&layout=gradient)](https://github.com/anuraghazra/github-readme-stats)
