@@ -6,12 +6,11 @@
 - 💻 I’m DevOps Engineer
 - 👎 Yes un1xhub may seem empty, but I'll fill it in with codes soon, just give me time 
 - 🌐 Related Web Sites
-    - [LinkedIn](https://www.linkedin.com/in/nihad-bakirli-aa0173110/)
     - [dev.to](https://dev.to/un1xman)
 - 📫 How to reach me
-    - Mail: nihadbekirli@gmail.com & nihad@un1xman.com
+    - [Mail](nihadbekirli@gmail.com)
+    - [LinkedIn](https://www.linkedin.com/in/nihad-bakirli-aa0173110/)
     - Telegram: @un1xman
-    - Twitter: @un1xmannn
 ##### Un1xman's Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=un1xman&show_icons=true&theme=cobalt)
 
