@@ -7,6 +7,7 @@
 - 👎 Yes un1xhub may seem empty, but I'll fill it in with codes soon, just give me time 
 - 🌐 Related Web Sites
     - [dev.to](https://dev.to/un1xman)
+    - [gist](https://gist.github.com/un1xman)
 - 📫 How to reach me
     - [Mail](nihadbekirli@gmail.com)
     - [LinkedIn](https://www.linkedin.com/in/nihad-bakirli-aa0173110/)
