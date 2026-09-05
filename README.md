@@ -7,7 +7,7 @@
 
 - 🛠️ 8+ years building and scaling cloud-native infrastructure on **GCP**, **AWS**, and **Kubernetes**
 - 🔭 Currently a Senior SRE @ [Grid Dynamics](https://www.griddynamics.com/), running high-availability infrastructure for global data and fintech platforms
-- ⚙️ Deep in Infrastructure as Code (**Terraform**), GitOps (**ArgoCD**, **Helm**), and observability (**Prometheus**, **Grafana**, **Dynatrace**)
+- ⚙️ Deep in Cloud Platforms (**GCP**), Infrastructure as Code (**Terraform**), GitOps (**ArgoCD**, **Helm**), and observability (**Prometheus**, **Grafana**, **Dynatrace**)
 - 📍 Based in Baku, Azerbaijan
 - 🤐 Most of my day-to-day work lives in private/enterprise repos — this profile is my public playground
 - 📫 Reach out below, always happy to talk shop
@@ -38,14 +38,14 @@
   </a>
 </p>
 
-### 📊 Stats
+### 🐍 Contribution Graph
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=un1xman&show_icons=true&theme=cobalt" alt="un1xman's GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=un1xman&theme=cobalt" alt="un1xman's GitHub streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=un1xman&layout=gradient&theme=cobalt" alt="Top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/un1xman/un1xman/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/un1xman/un1xman/output/github-contribution-grid-snake.svg" />
+    <img alt="un1xman's contribution snake" src="https://raw.githubusercontent.com/un1xman/un1xman/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 <p align="center">✨ Happy Coding ✨</p>
